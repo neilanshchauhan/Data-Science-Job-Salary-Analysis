@@ -94,4 +94,4 @@ This project offers a comprehensive analysis of data science job salaries, provi
 
 ## 📚 References
 
-- [Data Science Salaries - Kaggle](https://www.kaggle.com/code/thabresh/data-science-salaries)
+- [Data Science Salaries - Kaggle](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/data)
